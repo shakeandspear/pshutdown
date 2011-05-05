@@ -1,4 +1,4 @@
-If you want to participate in pshutdown project, please live your comment on this page or send me an email {{{AzizovIldar@gmail.com}}}. In the comment, provide what is your interest in this project.
+If you want to participate in pshutdown project, please live your comment on this page or send me an email ({{{AzizovIldar@gmail.com}}}). In the comment, provide what is your interest in this project.
 
 
 Если у вас есть предложения по расширению функционала программы, прошу писать комментарии. Так же вы можете написать пожелания по плагинам, какие функции они должны выполнять, или чего вам не достаёт.
