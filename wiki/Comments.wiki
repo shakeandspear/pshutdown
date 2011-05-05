@@ -1,3 +1,6 @@
+If you want to participate in Fun3D project, please live your comment on this page or send me an email {{{AzizovIldar@gmail.com}}}. In the comment, provide what is your interest in this project.
+
+
 Если у вас есть предложения по расширению функционала программы, прошу писать комментарии. Так же вы можете написать пожелания по плагинам, какие функции они должны выполнять, или чего вам не достаёт.
 
 Если вы хотите присоединиться в качестве разработчика, то можете так же оставить комментарий, либо послать мне сообщение на ящик {{{AzizovIldar@gmail.com}}}
